@@ -1,4 +1,4 @@
-const CACHE_NAME = "password-checker-generator-cache";
+const CACHE_NAME = "password-tool-cache";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

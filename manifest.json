@@ -1,7 +1,7 @@
 {
-  "name": "Password Strength Checker & Generator",
-  "short_name": "Password Checker & Generator",
-  "start_url": "/",
+  "name": "Password Checker & Generator",
+  "short_name": "Password Tool",
+  "start_url": "/password-strength-app/",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
